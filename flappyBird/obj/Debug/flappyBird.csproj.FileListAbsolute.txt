@@ -1,0 +1,15 @@
+C:\Users\pozit\source\repos\flappyBird\flappyBird\bin\Debug\flappyBird.exe.config
+C:\Users\pozit\source\repos\flappyBird\flappyBird\bin\Debug\flappyBird.exe
+C:\Users\pozit\source\repos\flappyBird\flappyBird\bin\Debug\flappyBird.pdb
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.csprojAssemblyReference.cache
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\MainWindow.g.cs
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\App.g.cs
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird_MarkupCompile.cache
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird_MarkupCompile.lref
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\MainWindow.baml
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.g.resources
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.Properties.Resources.resources
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.csproj.GenerateResource.cache
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.csproj.CoreCompileInputs.cache
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.exe
+C:\Users\pozit\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="flappyBird.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:flappyBird"
+        mc:Ignorable="d"
+        Title="Flappy Bird" Height="490" Width="525">
+    <Canvas Name="MyCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" Background="#FF86F1F1">
+
+        <Image Height="145" Width="200" Source="images/clouds.png" Canvas.Left="20.825" Canvas.Top="140.722" Tag="cloud" />
+        <Image Height="145" Width="200" Source="images/clouds2.png" Canvas.Left="291.536" Tag="cloud" Canvas.Top="140.722" />
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs1" Canvas.Top="151.546" Canvas.Left="133.176"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs1" Canvas.Left="133.176" Canvas.Top="-348.247"/>
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs2" Canvas.Top="276.804" Canvas.Left="332.66"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs2" Canvas.Left="332.66" Canvas.Top="-222.989"/>
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs3" Canvas.Top="349.484" Canvas.Left="530.598"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs3" Canvas.Left="530.598" Canvas.Top="-150.309"/>
+
+        <Image Name="flappyBird" Height="36" Width="50" Source="images/flappyBird.png" Stretch="Fill" Canvas.Left="45.66" Canvas.Top="203.691" />
+
+        <Label Name="txtScore" FontSize="22" FontWeight="ExtraBold" Content="Счет: 0" />
+
+    </Canvas>
+</Window>
